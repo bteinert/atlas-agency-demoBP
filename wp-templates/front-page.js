@@ -97,6 +97,7 @@ export default function Component() {
               )}
             >
               <span>
+              change 1
                 Learn about Core Web Vitals and how Atlas can help you reach
                 your most demanding speed and user experience requirements.
               </span>
